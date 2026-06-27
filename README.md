@@ -47,4 +47,4 @@ Welcome to **The Midnight Press**, a premium, high-end dark industrial café web
 
 ## 👥 Author
 
-* **Created & Developed by:** [Aditya Pratap Singh Sisodiya]
+* **Created & Developed by: Aditya Pratap Singh Sisodiya
